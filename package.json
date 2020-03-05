@@ -1,0 +1,15 @@
+{
+  "name": "expressjsexample",
+  "version": "1.0.0",
+  "description": "\"Given two postcode return the distance between them, Example of express microservice\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
