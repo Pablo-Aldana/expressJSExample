@@ -1,0 +1,7 @@
+# INSTALLATION
+```
+npm install
+```
+
+
+
